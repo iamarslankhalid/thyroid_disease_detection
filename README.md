@@ -1,7 +1,5 @@
 # Thyroid Disease Detection
 
-![Thyroid Disease Detection](thyroid_detection.jpg)
-
 ## Overview
 
 Thyroid Disease Detection is a project aimed at predicting thyroid disease based on various medical parameters. The project utilizes machine learning algorithms to analyze patient data and classify individuals into different categories: Hyperthyroid, Hypothyroid, or Negative (no thyroid disease).
