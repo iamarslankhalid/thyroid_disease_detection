@@ -50,5 +50,5 @@ To use this project, follow these steps:
 
 ## Contributors
 
-- [Your Name](https://github.com/iamarslankhalid)
+- [Arslan](https://github.com/iamarslankhalid)
 - [Zainab Nadeem](https://github.com/zainabnadeeem)
