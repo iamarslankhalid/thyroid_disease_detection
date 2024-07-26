@@ -51,4 +51,4 @@ To use this project, follow these steps:
 ## Contributors
 
 - [Arslan](https://github.com/iamarslankhalid)
-- [Zainab Nadeem](https://github.com/imzainabnadeeem)
+- [Zainab Nadeem](https://github.com/imzainabnadeem)
